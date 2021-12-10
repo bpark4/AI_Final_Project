@@ -1,0 +1,38 @@
+Breadth First Search:
+
+Mean score: 484
+Mean apples: 48
+Mean time: 112.5900
+Mean score per second: 4.30
+
+A* Search:
+
+Mean score: 575
+Mean apples: 58
+Mean time: 124.4639
+Mean score per second: 4.62
+
+Best Reinforcement Learning:
+
+Complexity: 10000 trials
+alpha: 0.2
+epsilon: 0.5
+discount: 0.1
+living reward: -1
+apple reward: +9
+death reward: -11
+
+Mean score: 141
+Mean apples: 14
+Mean time: 11.4927
+Stuck in loop: 0/10
+Mean score per second: 12.27
+
+The best RL greatly outperformed both A* search and Breadth First Search in Mean score
+per second. Though, while it did play faster, it got a much lower overall score. In the game
+of snake it will naturally take longer for the player to get the apple as their score increases,
+because their tail gets longer and will be in the way more often. Also, if I included the
+training time alongside the RL, the time would be much higher, as it takes close to 10 minutes
+for my computer to train 10000 times.  With this in mind, due to the drastic difference in 
+score, which is ultimately the goal in snake (to get the highest score), I give the prize to 
+A* search.

@@ -1,0 +1,37 @@
+A* Search Results:
+
+Computer loses! Collision:
+Score: 580
+Time elapsed in seconds = 120.9464
+Computer loses! Collision:
+Score: 200
+Time elapsed in seconds = 33.3436
+Computer loses! Collision:
+Score: 480
+Time elapsed in seconds = 92.1611
+Computer loses! Collision:
+Score: 500
+Time elapsed in seconds = 99.7991
+Computer loses! Collision:
+Score: 680
+Time elapsed in seconds = 114.8620
+Computer loses! Collision:
+Score: 390
+Time elapsed in seconds = 70.5320
+Computer loses! Collision:
+Score: 670
+Time elapsed in seconds = 148.5323
+Computer loses! Collision:
+Score: 650
+Time elapsed in seconds = 140.8769
+Computer loses! Collision:
+Score: 850
+Time elapsed in seconds = 230.8116
+Computer loses! Collision:
+Score: 750
+Time elapsed in seconds = 192.7736
+
+Mean score: 575
+Mean apples: 58
+Mean time: 124.4639
+Mean score per second: 4.62

@@ -1,0 +1,263 @@
+Trainer:
+Complexity: 1000 trials
+alpha: 0.2
+epsilon: 0.5
+discount: 1
+living reward: -1
+apple reward: +9
+death reward: -11
+
+Computer:
+apple score = +10
+
+Score: 40
+Time elapsed in seconds = 7.2803
+Computer loses! Collision:
+Score: 100
+Time elapsed in seconds = 12.2151
+Computer loses! Collision:
+Score: 200
+Time elapsed in seconds = 18.3460
+Score: 110
+Time elapsed in seconds = 12.8599
+Score: 40
+Time elapsed in seconds = 8.4332
+Computer loses! Collision:
+Score: 110
+Time elapsed in seconds = 12.9733
+Computer loses! Collision:
+Score: 270
+Time elapsed in seconds = 26.0796
+Score: 40
+Time elapsed in seconds = 7.2242
+Computer loses! Collision:
+Score: 110
+Time elapsed in seconds = 14.3440
+Computer loses! Collision:
+Score: 150
+Time elapsed in seconds = 19.8832
+
+Mean score: 117
+Mean apples: ~ 12
+Mean time: 13.9639
+Stuck in loop: 4/10
+Mean points per second: 8.38 
+
+Trainer:
+Complexity: 500 trials
+alpha: 0.2
+epsilon: 0.5
+discount: 1
+living reward: -1
+apple reward: +9
+death reward: -11
+
+Computer:
+apple score = +10
+
+Score: 100
+Time elapsed in seconds = 16.4964
+Computer loses! Collision:
+Score: 50
+Time elapsed in seconds = 2.7056
+Score: 20
+Time elapsed in seconds = 8.4213
+Score: 50
+Time elapsed in seconds = 7.3040
+Score: 10
+Time elapsed in seconds = 4.5281
+Score: 10
+Time elapsed in seconds = 3.6615
+Score: 10
+Time elapsed in seconds = 2.9454
+Computer loses! Collision:
+Score: 60
+Time elapsed in seconds = 4.0731
+Score: 40
+Time elapsed in seconds = 9.6334
+Score: 70
+Time elapsed in seconds = 16.1803
+
+Mean score: 42
+Mean apples: ~ 4
+Mean time: 7.5949
+Stuck in loop: 8/10
+Mean score per second: 5.53
+
+Trainer:
+Complexity: 1000 trials
+alpha: 0.8
+epsilon: 0.5
+discount: 1
+living reward: -1
+apple reward: +9
+death reward: -11
+
+Computer:
+apple score = +10
+
+Score: 20
+Time elapsed in seconds = 9.3040
+Computer loses! Collision:
+Score: 120
+Time elapsed in seconds = 10.7167
+Score: 40
+Time elapsed in seconds = 6.5530
+Score: 50
+Time elapsed in seconds = 10.0084
+Score: 110
+Time elapsed in seconds = 17.1001
+Score: 20
+Time elapsed in seconds = 4.4637
+Computer loses! Collision:
+Score: 30
+Time elapsed in seconds = 1.2720
+Score: 20
+Time elapsed in seconds = 4.3716
+Score: 10
+Time elapsed in seconds = 5.3334
+Score: 20
+Time elapsed in seconds = 4.9843
+
+Mean score: 44
+Mean apples: 4
+Mean time: 7.4107
+Stuck in loop: 8/10
+Mean score per second: 5.94
+
+Trainer:
+Complexity: 1000 trials
+alpha: 0.2
+epsilon: 0.5
+discount: 0.1
+living reward: -1
+apple reward: +9
+death reward: -11
+
+Computer:
+apple score = +10
+
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3065
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3097
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3096
+Score: 10
+Time elapsed in seconds = 5.2972
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3129
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3081
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3074
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3111
+Score: 0
+Time elapsed in seconds = 2.3923
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3092
+
+Mean score: 1
+Mean apples: 0
+Mean time: 1.0164
+Stuck in loop: 2/10
+Mean score per second: 0.98
+
+Trainer:
+Complexity: 1000 trials
+alpha: 0.2
+epsilon: 0.5
+discount: 0.1
+living reward: 0
+apple reward: +10
+death reward: -10
+
+Computer:
+apple score = +10
+
+Score: 0
+Time elapsed in seconds = 3.8679
+Score: 0
+Time elapsed in seconds = 1.6841
+Computer loses! Collision:
+Score: 10
+Time elapsed in seconds = 3.0502
+Score: 0
+Time elapsed in seconds = 1.9347
+Score: 0
+Time elapsed in seconds = 2.2901
+Score: 0
+Time elapsed in seconds = 1.5255
+Score: 0
+Time elapsed in seconds = 1.9339
+Score: 0
+Time elapsed in seconds = 1.3277
+Computer loses! Collision:
+Score: 0
+Time elapsed in seconds = 0.3090
+Score: 0
+Time elapsed in seconds = 1.4310
+
+Mean score: 1
+Mean apples: ~ 0
+Mean time: 1.9354
+Stuck in loop: 8/10
+Mean score per second: 0.52
+
+Trainer:
+Complexity: 10000 trials
+alpha: 0.2
+epsilon: 0.5
+discount: 0.1
+living reward: -1
+apple reward: +9
+death reward: -11
+
+Computer:
+apple score = +10
+
+Computer loses! Collision:
+Score: 100
+Time elapsed in seconds = 10.6613
+Computer loses! Collision:
+Score: 120
+Time elapsed in seconds = 8.5593
+Computer loses! Collision:
+Score: 120
+Time elapsed in seconds = 11.2586
+Computer loses! Collision:
+Score: 120
+Time elapsed in seconds = 7.5951
+Computer loses! Collision:
+Score: 100
+Time elapsed in seconds = 5.8095
+Computer loses! Collision:
+Score: 170
+Time elapsed in seconds = 15.1317
+Computer loses! Collision:
+Score: 220
+Time elapsed in seconds = 18.2387
+Computer loses! Collision:
+Score: 100
+Time elapsed in seconds = 9.6781
+Computer loses! Collision:
+Score: 190
+Time elapsed in seconds = 13.4351
+Computer loses! Collision:
+Score: 170
+Time elapsed in seconds = 14.5592
+
+Mean score: 141
+Mean apples: 14
+Mean time: 11.4927
+Stuck in loop: 0/10
+Mean score per second: 12.27
